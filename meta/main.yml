@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: timezone
+  namespace: oxivanisher
   author: Marc Urben
   description: Configures the local timezone
   company: Thunderbluff
