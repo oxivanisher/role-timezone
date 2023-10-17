@@ -51,7 +51,5 @@ galaxy_info:
   galaxy_tags:
     - timezone
 
-dependencies: []
-
-collections:
-  - community.general
+dependencies:
+  - role: community.general.timezone
