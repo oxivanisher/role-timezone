@@ -52,4 +52,5 @@ galaxy_info:
     - timezone
 
 dependencies:
-  - role: community.general.timezone
+  []
+  # - role: community.general.timezone
