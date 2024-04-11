@@ -2,3 +2,5 @@
 - name: Set timezone
   community.general.timezone:
     name: "{{ timezone.timezone }}"
+  become: true
+  become_user: root
