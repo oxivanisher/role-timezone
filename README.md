@@ -1,5 +1,6 @@
 timezone
 ========
+[![Ansible Lint](https://github.com/oxivanisher/role-timezone/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/oxivanisher/role-timezone/actions/workflows/ansible-lint.yml)
 
 Configure the system timezone.
 
