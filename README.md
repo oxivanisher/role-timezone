@@ -6,9 +6,9 @@ Configure the system timezone.
 Role Variables
 --------------
 
-| Name             | Comment                               | Default value                   |
-|------------------|---------------------------------------|---------------------------------|
-| timezone_timezone | Which timezone should be configured. | `Europe/Zurich` |
+| Name              | Comment                               | Default value                   |
+|-------------------|---------------------------------------|---------------------------------|
+| timezone_timezone | Which timezone should be configured.  | `Europe/Zurich` |
 
 Example Playbook
 ----------------
